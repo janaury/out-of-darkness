@@ -1,0 +1,9 @@
+{
+    "bpType": "SetImmunePart",
+    "changes": {},
+    "classType": "PartInstance",
+    "customVariables": [],
+    "directoryPath": "SetImmune",
+    "metaType": "SetImmunePartMeta",
+    "partType": "SetImmunePart"
+}

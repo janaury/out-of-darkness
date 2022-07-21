@@ -1,0 +1,1827 @@
+[
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724518",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "myscientist",
+        "presetId": "a561a3ed-e801-421a-a8a2-fe1959c780ec",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                -1.3512904644012451,
+                9.0,
+                -77.84549713134766
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+ 
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724176",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                225.4363250732422,
+                4.0,
+                -110.36422729492188
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724175",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724174",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                233.0964813232422,
+                4.0,
+                -102.41790771484375
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724173",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                224.73989868164062,
+                4.0,
+                -111.92652893066406
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724172",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724171",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                232.79139709472656,
+                4.0,
+                -102.34296417236328
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724170",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                233.4205322265625,
+                4.0,
+                -102.46305847167969
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724169",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724168",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                227.3675079345703,
+                4.0,
+                -111.2280502319336
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724167",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                226.12643432617188,
+                4.0,
+                -111.58016967773438
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724166",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724165",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                234.29733276367188,
+                4.0,
+                -102.67060852050781
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724164",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                235.06813049316406,
+                4.0,
+                -102.85027313232422
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724163",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724162",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                231.559326171875,
+                4.0,
+                -103.06739807128906
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724161",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724160",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                225.4363250732422,
+                4.0,
+                -110.36422729492188
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724159",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724158",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                233.0964813232422,
+                4.0,
+                -102.41790771484375
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724157",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                224.73989868164062,
+                4.0,
+                -111.92652893066406
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724156",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724155",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                232.79139709472656,
+                4.0,
+                -102.34296417236328
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724154",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                233.4205322265625,
+                4.0,
+                -102.46305847167969
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724153",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                229.5,
+                4.0,
+                -105.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724152",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                227.3675079345703,
+                4.0,
+                -111.2280502319336
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724151",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.6480712890625,
+                4.0,
+                -128.8575439453125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724150",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.6480712890625,
+                4.0,
+                -128.8575439453125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724149",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.64865112304688,
+                4.0,
+                -128.85653686523438
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724148",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.6480712890625,
+                4.0,
+                -128.8575439453125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724147",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.6480712890625,
+                4.0,
+                -128.8575439453125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724146",
+        "isPreLoad": false,
+        "loadPresetCfg": true,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                102.6480712890625,
+                4.0,
+                -128.8575439453125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724145",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724144",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724143",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724142",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724141",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724140",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                5.0,
+                -113.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724139",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                7.5358405113220215,
+                -99.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724138",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                95.5,
+                5.0,
+                -96.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724137",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                88.53082275390625,
+                8.0,
+                -96.37167358398438
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724136",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                7.5358405113220215,
+                -99.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724135",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                95.5,
+                5.0,
+                -96.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724134",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                88.53082275390625,
+                8.0,
+                -96.37167358398438
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724133",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                88.53082275390625,
+                8.0,
+                -96.37167358398438
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724132",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                95.5,
+                5.0,
+                -96.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724131",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                85.5,
+                7.5358405113220215,
+                -99.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724130",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                93.5,
+                7.0,
+                -87.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724129",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                93.5,
+                7.0,
+                -87.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724128",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                93.5,
+                7.0,
+                -87.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724127",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                81.5,
+                6.0,
+                -78.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724126",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                81.5,
+                6.0,
+                -78.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724125",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                81.5,
+                6.0,
+                -78.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724124",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                69.5,
+                6.0,
+                -72.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724123",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                69.5,
+                6.0,
+                -72.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724122",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                69.5,
+                6.0,
+                -72.5
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    },
+    {
+        "changes": {},
+        "classType": "PresetInstance",
+        "dimension": 0,
+        "entityId": "-167503724121",
+        "isPreLoad": false,
+        "loadPresetCfg": false,
+        "maxChunkPos": null,
+        "minChunkPos": null,
+        "name": "black1preset",
+        "presetId": "d0ac08dd-4ba8-4f89-9844-6ec8f54795ed",
+        "presetType": "EntityPreset",
+        "transform": {
+            "classType": "Transform",
+            "pos": [
+                1.0,
+                27.0,
+                -98.0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "virtual": false
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "geometry": {
+                "default": "geometry.myvillager"
+            },
+            "identifier": "aaaa:myvillager",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "spawn_egg": {
+                "base_color": "#71cbd9",
+                "overlay_color": "#8ca444"
+            },
+            "textures": {
+                "default": "textures/entity/myvillager"
+            }
+        }
+    }
+}

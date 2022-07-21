@@ -1,0 +1,12 @@
+{
+    "bpType": "BlueprintPart",
+    "changes": {},
+    "classType": "PartInstance",
+    "customVariables": [
+        "v_isplayer",
+        "v_flog"
+    ],
+    "directoryPath": "Blueprint",
+    "metaType": "BlueprintPartMeta",
+    "partType": "BlueprintPart"
+}

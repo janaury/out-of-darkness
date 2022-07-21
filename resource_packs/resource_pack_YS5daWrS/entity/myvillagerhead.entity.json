@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "geometry": {
+                "default": "geometry.myvillagerhead"
+            },
+            "identifier": "ccc:myvillagerhead",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "spawn_egg": {
+                "base_color": "#b70d5b",
+                "overlay_color": "#9bfffb"
+            },
+            "textures": {
+                "default": "textures/entity/myvillagerhead"
+            }
+        }
+    }
+}

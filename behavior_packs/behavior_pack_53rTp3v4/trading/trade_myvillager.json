@@ -1,0 +1,157 @@
+{
+    "tiers": [
+        {
+            "total_exp_required": 0,
+            "trades": [
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:iron_block:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:chicken:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:copper_block:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:porkchop:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:gold_block:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:beef:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        },
+                        {
+                            "item": "minecraft:mutton:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:apple:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:red_flower:9",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        },
+                        {
+                            "item": "minecraft:red_mushroom:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:sweet_berries:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:brown_mushroom:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        },
+                        {
+                            "item": "minecraft:red_flower:9",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "gives": [
+                        {
+                            "item": "minecraft:carrot:0",
+                            "quantity": {
+                                "max": 1,
+                                "min": 1
+                            }
+                        }
+                    ],
+                    "wants": [
+                        {
+                            "item": "minecraft:red_flower:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        },
+                        {
+                            "item": "minecraft:red_mushroom:0",
+                            "quantity": {
+                                "max": 2,
+                                "min": 2
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

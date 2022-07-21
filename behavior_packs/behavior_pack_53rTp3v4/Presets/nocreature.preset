@@ -1,0 +1,28 @@
+{
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "WorldPart",
+            "changes": {
+                "cheatInfo.keep_inventory": true,
+                "cheatInfo.stable_time": 18000,
+                "optionInfo.pvp": false
+            },
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "World",
+            "metaType": "WorldPartMeta",
+            "partId": "World",
+            "partType": "WorldPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PresetBase",
+    "forceLoad": false,
+    "name": "nocreature",
+    "preLoad": false,
+    "presetId": "8e595836-42a4-4b64-855b-1b778350e8d3",
+    "previewEnable": true,
+    "singleton": false,
+    "unique": false
+}

@@ -1,0 +1,48 @@
+{
+    "Account": "h2564436682@163.com",
+    "AssertCacheDir": "D:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CreateNew": false,
+    "CreateVersion": "2.1.0.60416",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "D:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "终4",
+    "EditType": 2,
+    "EditVersion": "2.2.0.97771",
+    "EditorResourcePackPath": "D:\\my_softwares\\garbge\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 1,
+    "Id": "fee3fc566bd64c039c68fb25b66818cf",
+    "IsMap": true,
+    "NewEditCount": 44,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "SaveBackAddOnPath": "",
+    "SaveBackMapPath": "D:\\MCStudioDownload\\work\\h2564436682@163.com\\Cpp\\Map\\fee3fc566bd64c039c68fb25b66818cf",
+    "Seed": "2227880006",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "import",
+    "StudioPort": 10331,
+    "StudioTempPath": "D:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "84656",
+    "UserName": "你的开发者昵称",
+    "WorldType": 2
+}

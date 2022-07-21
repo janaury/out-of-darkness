@@ -1,0 +1,20 @@
+[
+    {
+        "pack_id": "65b6d9fa-4f64-484d-bbb8-360207972232",
+        "type": "Addon",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "pack_id": "706c636f-1220-4b6c-8c33-ea361ac9f61f",
+        "type": "Addon",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    }
+]

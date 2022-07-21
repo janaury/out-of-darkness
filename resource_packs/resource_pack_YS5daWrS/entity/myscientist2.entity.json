@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "geometry": {
+                "default": "geometry.myscientist2"
+            },
+            "identifier": "abb:myscientist2",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "spawn_egg": {
+                "base_color": "#702b13",
+                "overlay_color": "#4dc71d"
+            },
+            "textures": {
+                "default": "textures/entity/myscientist2"
+            }
+        }
+    }
+}

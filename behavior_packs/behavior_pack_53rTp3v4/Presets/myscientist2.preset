@@ -1,0 +1,67 @@
+{
+    "behaviorAttrs": {
+        "SetBlockControlAi": true,
+        "SetImmuneDamage": true,
+        "SetPersistence": true
+    },
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "SetNamePart",
+            "changes": {
+                "v_PartVariable_1": "科学家"
+            },
+            "classType": "PartInstance",
+            "customVariables": [
+                "v_PartVariable_1"
+            ],
+            "directoryPath": "SetName",
+            "metaType": "SetNamePartMeta",
+            "partType": "SetNamePart"
+        },
+        {
+            "bpType": "SetImmunePart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "SetImmune",
+            "metaType": "SetImmunePartMeta",
+            "partType": "SetImmunePart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "EntityPreset",
+    "engineTypeStr": "abb:myscientist2",
+    "entityAttrs": {
+        "SetDamageValue": -1e-07,
+        "SetHealthValue": 1.0,
+        "SetLavaSpeedValue": -1e-07,
+        "SetSpeedValue": -1e-07
+    },
+    "forceLoad": false,
+    "name": "myscientist",
+    "oxygenAttrs": {
+        "SetAirSeconds": 15,
+        "SetRecoverTotalAirSupplyTime": 0.0
+    },
+    "physicsAttrs": {
+        "SetGravity": 0.0,
+        "SetPushable": true
+    },
+    "preLoad": false,
+    "presetId": "a561a3ed-e801-421a-a8a2-fe1959c780ec",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetNotRender": false
+    },
+    "singleton": false,
+    "stateAndItemAttrs": {
+        "AddEffect": [],
+        "SetItemInfo": []
+    },
+    "templateId": "",
+    "unique": false,
+    "updateRotationInterval": 0,
+    "updateScaleInterval": 0,
+    "updateTransformInterval": 2
+}

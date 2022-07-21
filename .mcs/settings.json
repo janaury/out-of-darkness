@@ -1,0 +1,17 @@
+{
+    "Arena.Component.Namespace": "vlnrj",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_packs\\resource_pack_YS5daWrS\\ui",
+        "behavior_packs\\behavior_pack_53rTp3v4\\Presets",
+        "behavior_packs\\behavior_pack_53rTp3v4\\Parts",
+        "behavior_packs\\behavior_pack_53rTp3v4\\BoxData",
+        "resource_packs\\resource_pack_YS5daWrS\\effects",
+        "resource_packs\\resource_pack_YS5daWrS\\models",
+        "resource_packs\\resource_pack_YS5daWrS\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    },
+    "Uluru.checkSuspectOldUI": true
+}
